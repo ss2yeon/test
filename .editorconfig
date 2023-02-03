@@ -1,4 +1,2 @@
-root = true
-
 [*.{cpp}]
 charset = utf-8
