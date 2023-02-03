@@ -1,7 +1,7 @@
-#include <iostream>
+ï»¿#include <iostream>
 int main() {
 
-	std::string friends[2] = { "È«±æµ¿", "¼ºÃáÇâ" };
+	std::string friends[2] = { "í™ê¸¸ë™", "ì„±ì¶˜í–¥" };
 	std::cout << friends[0];
 
 	double nums[3] = { 1.5, 2.5, 3.5 };
@@ -11,6 +11,6 @@ int main() {
 		{ { "",""} , {"",""}, {"",""} }
 	};
 
-	// friends = { "È«±æµ¿", "¼ºÃáÇâ" }
+	// friends = { "í™ê¸¸ë™", "ì„±ì¶˜í–¥" }
 	return 0;
 }
